@@ -1,6 +1,6 @@
 # Dodecaedre_Rhombique_TRUSS_HALF
 >>> 3D-printed building block (that doesn't need supports and is lightweight !). 
-  . You stack,or "attach", other blocks by matching 'Lozenge' faces or the flat unique face created by the cut.
+  . You can stack, or "attach", other blocks by matching 'Lozenge' faces or the flat unique face created by the cut.
   . Perfectly stackable (after applying some rotations and some glue or other technics).
   . Cutted in ****Half*** means that you can use it as the first step of your "building" for flat surfaces.
   . You can turn each block on all axis and imagine what you can do with a lot !... ;P
@@ -9,4 +9,4 @@
   
 License : Attribution 4.0 International (CC BY 4.0)  https://creativecommons.org/licenses/by/4.0/
 
->>> Please visit http://www.3DLibre.com and eventually order a 3D-print in PLA only ! <3 !
+>>> You can contact me via http://david.venancio.free.fr and eventually order a 3D-print in PLA only ! I'm actually in Portugal, south of Lisbon (~150km).
