@@ -5,7 +5,7 @@ You can stack the blocks by matching lozenge faces or the flat unique face creat
 
 Perfectly stackable because it's based on Rhombic Dodecahedron (a Catalan Solid).
 
-Cutted in half enables one to use it as the first step of the "building".
+I cutted it in half to enable anyone to use it as the first step of the "building".
 
 You can turn each block on all axis and imagine what you can do with a lot of them !
 
