@@ -17,4 +17,4 @@ I suggest to check what size you get at 100% (or 1000% in some cases), then play
   
 License : Attribution 4.0 International (CC BY 4.0)  https://creativecommons.org/licenses/by/4.0/
 
->>> You can contact me via http://www.3DLibre.com (which I made from the ground up) and eventually order a 3D-print in PLA only ! I'm actually in Portugal, south of Lisbon (~150km).
+>>> You can contact me via dv@3DLibre.com (website down for the moment)
