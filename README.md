@@ -1,5 +1,6 @@
-# Dodecaedre_Rhombique_TRUSS_HALF
-# 3D-printed building block that doesn't need supports and is lightweight !
+# RD-BLOCK : Rhombic Dodecaedron (Truss-style & cutted in half)
+
+= 3D-printed building block that doesn't need supports and is lightweight !
 
 You can stack the blocks by matching lozenge faces or the flat unique face created by the cut.
 
