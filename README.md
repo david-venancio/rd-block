@@ -1,4 +1,4 @@
-# RD-BLOCK : Rhombic Dodecaedron (Truss-style & cutted in half)
+# RD-BLOCK : Rhombic Dodecahedron (Truss-style & cutted in half)
 
 = 3D-printed building block that doesn't need supports and is lightweight !
 
