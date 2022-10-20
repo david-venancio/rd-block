@@ -18,4 +18,4 @@ I suggest to check what size you get at 100% (small on purpose when loaded on sl
   
 License : Attribution 4.0 International (CC BY 4.0)  https://creativecommons.org/licenses/by/4.0/
 
->>> You can contact me via dv@3DLibre.com (website down for the moment)
+>>> You can contact me via dv@3DLibre.com (website UP)
